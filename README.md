@@ -1,2 +1,1 @@
-# data.design.decisions.
-Data. Design. Decisions.
+# Data. Design. Decisions.
